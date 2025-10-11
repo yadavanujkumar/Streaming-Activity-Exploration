@@ -117,15 +117,3 @@ See `requirements.txt` for a complete list of dependencies.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 👤 Author
-
-**yadavanujkumar**
-
-## ⭐ Show your support
-
-Give a ⭐️ if this project helped you!
