@@ -23,6 +23,7 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb_checkpoints/
+*_executed.ipynb
 
 # Virtual Environment
 venv/
@@ -52,3 +53,7 @@ env/
 figures/
 plots/
 output/
+*.png
+*.jpg
+*.jpeg
+*.svg
